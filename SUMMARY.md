@@ -29,6 +29,7 @@
 * [📓 Smart Contracts](develop/smart-contracts/README.md)
   * [Remix](develop/smart-contracts/remix.md)
 * [⚒️ Common frameworks & Examples](develop/common-frameworks-and-examples.md)
+* [🗂️ Indexers](develop/indexers.md)
 * [🎱 Oracles](develop/oracles.md)
 * [💧 Testnet faucet](develop/testnet-faucet.md)
 * [🔩 Taraxa RPC Specs](develop/taraxa-rpc-specs.md)
